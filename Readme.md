@@ -2,14 +2,12 @@
 from [为学之道](http://www.jdl.ac.cn/how_to_research/index1_1.htm)
 
 TOC
-
-[Research Skills](#research-skills)
-
-[Writing and Publishing](#writing-and-publishing-top)
-
+[1-Research Skills](#research-skills)
+[2-Writing and Publishing](#writing-and-publishing-top)
+[3-Speaking](#Speaking)
 ---
 
-## Research Skills
+## Research Skills [top](#awesome_how_to_research)
 - ◇[如何做研究-张真诚](./doc/how_to_do_research_Zhangzc.md)
 
 
@@ -37,7 +35,7 @@ The goal of this document was to offer advice to students on entering, surviving
 
 ---
 
-## Writing and Publishing [top](#0) 
+## Writing and Publishing [top](#awesome_how_to_research)
 Writing Proposals
 ◇ [Guide for Writing a Funding Proposal](http://www.jdl.ac.cn/how_to_research/doc/Guide for Writing a Funding Proposal.pdf), by S. Joseph Levine. (pdf)
 ◇ [Writing Research Proposals to the National Science Foundation](http://www.jdl.ac.cn/how_to_research/doc/proposal_advice_Writing Research Proposals to the National Science Foundation.pdf), by Susan Finger. (pdf)
@@ -79,7 +77,7 @@ Writing Thesis and Dissertations
 
 ---
 
-## **Speaking** [top](#0) 
+## Speaking [top](#awesome_how_to_research)
 ◇ [Giving Presentations](http://www.jdl.ac.cn/zuoyanjiu/doc/presentations_Giving Presentations.ppt) , by Lawrence A. Rowe. (ppt) 
 ◇ [21 Secrets to Becoming A Good Speaker](http://www.jdl.ac.cn/zuoyanjiu/doc/_Harry_21_Secrets_Good_Presentation.ppt), by Kai-Fu Lee.(ppt) 
 ◇ [What is a Thesis Defense](http://www.jdl.ac.cn/how_to_research/doc/What is a thesis defense.doc) , by Chris Reisbeck. (doc)
@@ -95,21 +93,21 @@ Writing Thesis and Dissertations
 
 ---
 
-## **Tips for Writing Correct English **[top](#0) 
+## Tips for Writing Correct English [top](#awesome_how_to_research) 
 ◇ [Common Errors in English](http://www.wsu.edu:8080/~brians/errors/). 
 ◇ [The Elements of Style](http://www.bartleby.com/141/), by William Strunk, Jr. 
 ◇ [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](http://www.jdl.ac.cn/how_to_research/doc/Grammar_Punctuation_Capitalization__A Handbook for Technical Writers and Editors.pdf), by Mary K. McCaskill (pdf)
 
 ---
 
-## **How to Review **[top](#0) 
+## How to Review [top](#awesome_how_to_research) 
 ◇ [A Guide for New Referees in Theoretical Computer Science, Information and Computation](http://hercule.csci.unt.edu/~ian/guides/referee.html), 112(1):96-116, July 1994.([pdf](http://www.jdl.ac.cn/how_to_research/doc/referee.pdf))
 ◇ [A Guide for New Referees in Theoretical Computer Science](http://www.jdl.ac.cn/how_to_research/doc/manuscript.pdf), by Ian Parberry. (pdf).
 ◇ [The task of the referee](http://www.jdl.ac.cn/how_to_research/doc/The task of the referee.pdf), by Alan Jay Smith. IEEE Computer, April 1990. (pdf)
 
 ---
 
-## **Career Advice** [top](#0) 
+## Career Advice [top](#awesome_how_to_research) 
 ◇ [Academic Careers for Experimental Computer Scientists and Engineers,](http://www.nap.edu/html/acesc/) published by National Academy Press.
 ◇ [Communications of the ACM SPECIAL ISSUE (September 2003): Why universities require computer science students to take math?](http://portal.acm.org/citation.cfm?id=903893.903916&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659)
 　[Introduction](http://portal.acm.org/citation.cfm?id=903893.903917&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659), by Keith Devlin. [Html](http://portal.acm.org/ft_gateway.cfm?id=903917&type=html&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659)(14 KB), [Pdf](http://portal.acm.org/ft_gateway.cfm?id=903917&type=pdf&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659)(75 KB) 
@@ -126,7 +124,7 @@ Writing Thesis and Dissertations
 
 ---
 
-## **Related Papers** [top](#0) 
+## Related Papers [top](#awesome_how_to_research) 
 ◇ [《迈向成功之路》](http://www.cs.ccu.edu.tw/~ccc/article/success.htm)作者：张真诚。 
 ◇ [《是什么在造就一个人的成功》](http://www.jdl.ac.cn/how_to_research/doc/%E6%98%AF%E4%BB%80%E4%B9%88%E5%9C%A8%E9%80%A0%E5%B0%B1%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%90%E5%8A%9F__%E6%9C%B1%E6%B8%85%E6%97%B6%E6%A0%A1%E9%95%BF(%E5%AE%8C%E5%85%A8%E7%89%88).doc)，作者：朱清时。 
 ◇ [《爱因斯坦〈自述〉节选》](http://www.jdl.ac.cn/how_to_research/doc/%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E3%80%8A%E8%87%AA%E8%BF%B0%E3%80%8B%E8%8A%82%E9%80%89.txt)，（txt）.
@@ -145,7 +143,7 @@ Writing Thesis and Dissertations
 
 ---
 
-## **Related Books** [top](#0) 
+## Related Books [top](#awesome_how_to_research) 
 ◇ Zhang Dianzhou, eds. Collected Papers of Yang Zhenning. East-China Normal University Press, 1997. Available in bookstore of Press of University of Science and Technology of China, Haidian Book City. RMB55.00.
 (Dr. Yang, a great master of the 20th century, discussed in the book how to do research, including his views of creativity, inspiration, taste, orientation, etc. I learn a lot from his original thinking procedure and academic developing experience.)
 ◇ Shasha, D. E., et al. Out of their minds: the lives and discoveries of 15 great computer scientists. Springer, 1995.
@@ -160,7 +158,7 @@ Writing Thesis and Dissertations
 
 ---
 
-## **Ethics **[top](#0) 
+## Ethics [top](#awesome_how_to_research) 
 ◇ [On Being A Scientist: Responsible Conduct in Research](http://www.nap.edu/readingroom/books/obas/) (from National Academy of Sciences). 
 ◇ [Technical writing and research ethics](http://www.justinzobel.com/links.html), by Justin Zobel.
 Pointers to information about research and writing, intended primarily for computer science.
