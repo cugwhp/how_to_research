@@ -2,11 +2,22 @@
 from [为学之道](http://www.jdl.ac.cn/how_to_research/index1_1.htm)
 
 TOC
-[1-Research Skills](#research-skills)
+
+[1-Research Skills](#research-skills-top)
 
 [2-Writing and Publishing](#writing-and-publishing-top)
 
-[3-Speaking](#Speaking)
+[3-Speaking](#Speaking-top)
+
+[4-Tips for writing correct english](#tips-for-writing-correct-english-top)
+
+[5-Career Advice](#career-advice-top)
+
+[6-Relate Papers](#related-papers-top)
+
+[7-Related Books](#related-books-top)
+
+[8-Ethics](#ethics-top)
 ---
 
 ## Research Skills [top](#awesome_how_to_research)
