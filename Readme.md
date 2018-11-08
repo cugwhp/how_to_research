@@ -39,11 +39,15 @@ TOC
 ◇[ How to Succeed in Graduate School: A Guide for Students and Advisors](http://www.jdl.ac.cn/how_to_research/doc/advicea_1.pdf), by Marie desJardins. (pdf)
 This is the latest version of the paper. The original version of it was called [How to be a Good Graduate Student/Advisor](http://www.jdl.ac.cn/how_to_research/doc/How to be a good graduate student.pdf), by Marie desJardins. (pdf)
 (This paper attempts to raise some issues that are important for graduate students to be successful and to get as much out of the process as possible, and for advisors who wish to help their students be successful. The intent is not to provide prescriptive advice -- No formulas for finishing a thesis or twelve-step programs for becoming a better advisor are given -- but to raise awareness on both sides of the advisor-student relationship as to what the expectations are and should be for this relationship, what a graduate student should expect to accomplish, common problems, and where to go if the advisor is not forthcoming.)
+
 ◇ [Graduate Study in the Computer and Mathematical Sciences: A Survival Manual](http://www.jdl.ac.cn/how_to_research/doc/gradstudy_GRADUATE STUDY IN THE COMPUTER and MATHEMATICAL SCIENCES.pdf), by Dianne Prost o 'Leary. (pdf)
 The goal of this document was to offer advice to students on entering, surviving, and thriving during graduate study and beyond.
+
 ◇ [How to Read a Research Paper](http://www.jdl.ac.cn/how_to_research/doc/HOW TO READ A RESEARCH PAPER.doc),by Spencer Rugaber. (doc)
 (Eight questions that you should ask yourself when reading a research paper)
+
 ◇ [A Perspective on Doing Effective Research](http://www.jdl.ac.cn/zuoyanjiu/doc/A Perspective on Doing Effective Research.ppt),by Sing Bing Kang. (ppt)
+
 ◇ [The Design of Design](http://www.jdl.ac.cn/zuoyanjiu/doc/Fredericks Brooks Jr_The Design of Design.ppt),by Fredericks Brooks Jr. (ppt)
 
 ---
@@ -51,41 +55,72 @@ The goal of this document was to offer advice to students on entering, surviving
 ## Writing and Publishing [top](#awesome_how_to_research)
 Writing Proposals
 ◇ [Guide for Writing a Funding Proposal](http://www.jdl.ac.cn/how_to_research/doc/Guide for Writing a Funding Proposal.pdf), by S. Joseph Levine. (pdf)
+
 ◇ [Writing Research Proposals to the National Science Foundation](http://www.jdl.ac.cn/how_to_research/doc/proposal_advice_Writing Research Proposals to the National Science Foundation.pdf), by Susan Finger. (pdf)
 (This document focuses on writing proposals to NSF, but the following general advice can be applied to writing any proposal.)
+
 ◇ [On Ph.D. Thesis Proposals](http://www.jdl.ac.cn/how_to_research/doc/lauer_On PhD Thesis Proposals.txt), by H. C. Lauer. (txt)
 Writing Papers
+
 ◇ [How to Write Papers](http://www.jdl.ac.cn/how_to_research/doc/%E5%A6%82%E4%BD%95%E5%86%99%E8%AE%BA%E6%96%87.ppt), by Charles Ling(凌晓峰). (ppt)
+
 ◇ [how to write a good paper](http://www.jdl.ac.cn/zuoyanjiu/doc/how to write a good paper(%E5%BC%A0%E4%BA%9A%E5%8B%A4).ppt), by Ya-Qin Zhang(张亚勤). (ppt)
+
 ◇ [A Guide for Writing Research Papers](http://webster.commnet.edu/mla/index.shtml).
+
 ◇ [Guest Editorial How to avoid the Reviewer's Axe：One Editor's View](http://www.jdl.ac.cn/how_to_research/doc/How to avoid the Reviewer's Axe__One Editor's View.pdf), by Stephen D. Senturia. (pdf).
+
 ◇ [Writing a Review Article](http://www.jdl.ac.cn/how_to_research/doc/Writing a Review Article.htm)，by Daryl J. Bem.
+
 ◇ [Advice to Authors of Extended Abstracts](http://www.jdl.ac.cn/how_to_research/doc/advice.pdf) by William Pugh. (pdf)
+
 ◇ [Some Hints to Improve Writing of Technical Papers](http://www.jdl.ac.cn/how_to_research/doc/GuideEcriturePapiers.pdf), ([Version PostScript](ftp://ftp-sop.inria.fr/chir/publis/GuideEcriturePapiers.ps.gz)) by Patrick Valduriez, Projet Rodin. (pdf)
+
 ◇ [How to Have Your Abstract Rejected](ftp://parcftp.xerox.com/pub/popl96/vanLeunenLipton), by van Leunen and Lipton.
+
 ◇ [How to Get Your SIGGRAPH Paper Rejected](http://www.cc.gatech.edu/student.services/phd/phd-advice/kajiya), by Jim Kajiya. 
+
 ◇ [An Evaluation of the Ninth SOSP Submissions, or, How (and How Not) to Write a Good Systems Paper](ftp://fast.cs.utah.edu/pub/writing-papers.ps), by Roy Levin and David D. Redell 
+
 ◇ [Write Right for Research](http://www.sci.usq.edu.au/staff/robertsa/LaTeX/ltxwrite.html), by Tony Roberts.
+
 ◇ [How to Write A Scientific Paper](http://www.improb.com/airchives/paperair/volume2/v2i5/howto.htm), by E. Robert Schulman.
+
 ◇[ Hints on good mathematical writing](ftp://ftp.math.ohio-state.edu/pub/math.style/hint.ps), by David Goss.
+
 ◇ Writing a Math Phase Two Paper, by Steven L. Kleiman. ([pdf](http://www.jdl.ac.cn/how_to_research/doc/mit_A primer on mathematical writing))
 (Word-smithing is a much greater percentage of what I am supposed to be doing in life than I would ever have thought.—— DONALD KNUTH)
+
 ◇ [《撰写科技研究论文之要领》](http://www.jdl.ac.cn/how_to_research/doc/%E6%92%B0%E5%AF%AB%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E8%AB%96%E6%96%87%E4%B9%8B%E8%A6%81%E9%A0%98_%E5%BC%B5%E7%9C%9F%E8%AA%A0_%E5%BC%A0%E9%95%87%E9%A9%BF.htm)，作者：张真诚，张镇驿。
+
 ◇ [《科学写作的严谨性》](http://www.jdl.ac.cn/how_to_research/doc/%E7%A7%91%E5%AD%A6%E5%86%99%E4%BD%9C%E7%9A%84%E4%B8%A5%E8%B0%A8%E6%80%A7.doc), by runner。
+
 ◇ [《如何写作高水平文章》](http://www.jdl.ac.cn/zuoyanjiu/doc/%E5%A6%82%E4%BD%95%E5%86%99%E4%BD%9C%E9%AB%98%E6%B0%B4%E5%B9%B3%E6%96%87%E7%AB%A0 very good!!!.ppt), by Shujun Li.(ppt)
+
 ◇ [《怎样写好论文》](http://www.jdl.ac.cn/zuoyanjiu/doc/%E6%80%8E%E6%A0%B7%E5%86%99%E8%AE%BA%E6%96%87.mht).
+
 ◇ [《SCI,EI介绍》](http://www.jdl.ac.cn/zuoyanjiu/doc/SCI_EI_Introduction.mht), by 朱 诚.
+
 ◇ [Writing Technical Articles ](http://www.jdl.ac.cn/zuoyanjiu/doc/Writing Systems and Networking Articles.mht).
+
 ◇ [The Science of Scientific Writing](http://www.jdl.ac.cn/zuoyanjiu/doc/The Science of Scientific Writing.pdf), by George D. Gopen and Judith A. Swan. (pdf)
-◇ [Writing a Literature Review](http://www.utoronto.ca/hswriting/lit-review.htm)，by Dr. D. Taylor. 
-Writing Thesis and Dissertations
+
+◇ [Writing a Literature Review](http://www.utoronto.ca/hswriting/lit-review.htm)，by Dr. D. Taylor. Writing Thesis and Dissertations
+
 ◇ [Thoughts on the Structure of CS Dissertations](http://www.cc.gatech.edu/student.services/phd/phd-advice/thesis.html), by Spencer Rugaber.
+
 ◇ [Dissertation Advice](http://www.ai.mit.edu/people/shivers/diss-advice.html), from Olin Shivers.
+
 ◇ [How to Organize your Thesis](http://www.sce.carleton.ca/faculty/chinneck/thesis.html)，by John W. Chinneck. ([Chinese version](http://www.sce.carleton.ca/faculty/chinneck/thesis/ThesisChinese.html)) . 
+
 ◇ [How to Write a PhD Thesis](http://www.phys.unsw.edu.au/~jw/thesis.html), by Joe Wolfe
+
 ◇ [How to Write a Ph.D. Dissertation](http://www.cs.purdue.edu/homes/dec/essay.dissertation.html), by E. Robert Schulman and C. Virginia Cox. 
+
 ◇ [Writing and Presenting Your Thesis or Dissertation](http://www.jdl.ac.cn/how_to_research/doc/Writing and Presenting Your Thesis or Dissertation.pdf)，by S. Joseph Levine. (pdf)
+
 ◇ [NOTES ON PRESENTING THESES](http://www.jdl.ac.cn/how_to_research/doc/theses_NOTES ON PRESENTING THESES.pdf), by Aaron Sloman. (pdf)
+
 ◇ [How to Write a Thesis - A Personal Experience](http://www.jdl.ac.cn/how_to_research/doc/how_to_write_a_thesis_How to Write a Thesis - A Personal Experience.ppt), by Hugo do Nascimento . (ppt)
 
 ---
