@@ -2,7 +2,10 @@
 from [为学之道](http://www.jdl.ac.cn/how_to_research/index1_1.htm)
 
 TOC
-[Research Skills](## Research Skills)
+[Research Skills](#Research Skills)
+[Writing and Publishing](#Writing and Publishing)
+
+---
 
 ## Research Skills
 - ◇[如何做研究-张真诚](./doc/how_to_do_research_Zhangzc.md)
@@ -32,7 +35,7 @@ The goal of this document was to offer advice to students on entering, surviving
 
 ---
 
-**Wwriting and Publishing** [top](#0) 
+## Writing and Publishing [top](#0) 
 Writing Proposals
 ◇ [Guide for Writing a Funding Proposal](http://www.jdl.ac.cn/how_to_research/doc/Guide for Writing a Funding Proposal.pdf), by S. Joseph Levine. (pdf)
 ◇ [Writing Research Proposals to the National Science Foundation](http://www.jdl.ac.cn/how_to_research/doc/proposal_advice_Writing Research Proposals to the National Science Foundation.pdf), by Susan Finger. (pdf)
