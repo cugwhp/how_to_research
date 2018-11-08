@@ -62,7 +62,7 @@ To begin with, we like to talk about the motive of and the types of research to 
 
  
 
-# ## 三、研究要领及方法
+## 三、研究要领及方法
 
 在这一节中，我们将叙述几个做研究的方法与要领，重要的是，这些要领其实都不是非常困难的，只要谨记，相信在从事研究时会有一些帮助。
 

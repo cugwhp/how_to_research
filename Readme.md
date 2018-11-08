@@ -5,6 +5,9 @@ TOC
 [Research Skills](## Research Skills)
 
 ## Research Skills
+- ◇[如何做研究-张真诚](./doc/how_to_do_research_Zhangzc.md)
+
+
 ◇ [关于研究的若干问题](http://www.jdl.ac.cn/how_to_research/doc/VilabTalk%E5%85%B3%E4%BA%8E%E7%A0%94%E7%A9%B6%E7%9A%84%E8%8B%A5%E5%B9%B2%E9%97%AE%E9%A2%98.ppt)，作者：陈熙霖。（ppt）
 ◇ [A Letter to Research Students](http://www.jdl.ac.cn/how_to_research/doc/research_A Letter to Research Students.pdf), by Duane A. Bailey. (pdf)
 (Research can be made more enjoyable and productive through a little organization. For many computer scientists, research techniques are a product of experience rather than, unfortunately, formal training. Several organizational suggestions are outlined here, most of which are useful to the undergraduate researcher. Items in italics are aimed at graduate students, professional researchers, and faculty. Enjoy!)
@@ -14,7 +17,7 @@ TOC
 (Technical Report DAI Teaching Paper No . 4, Dept. of Artificial Intelligence, University of Edinburgh This version: February 17, 1995. Modified for Computer Science at TCD by Vance Gledhill, 1999.)
 ◇ [How to do Research in the MIT AI Lab](http://www.jdl.ac.cn/how_to_research/doc/%E5%A6%82%E4%BD%95%E5%81%9A%E7%A0%94%E7%A9%B6.doc), ed. David Chapman. （DOC中文版） （[pdf](http://www.jdl.ac.cn/how_to_research/doc/Chapman88_How to do Research.pdf)）
 (This document presumptuously purports to explain how to do research. The authors give heuristics that may be useful in picking up the specific skills needed for research (reading, writing, programming) and for understanding and enjoying the process itself (methodology, topic and advisor selection, and emotional factors). )
-- ◇[如何做研究-张真诚](./doc/how_to_do_research_Zhangzc.md)
+
 ◇ [《如何做研究》](http://www.cs.ccu.edu.tw/~ccc/article/Research.htm)，作者：张真诚。
 做研究要有一套正确的方法，就可以达到「事半功倍」的效果。本文将介绍给读者做研究的方法与技巧，希望对于有兴趣从事学术研究的读者们能有正面的助益。
 ◇[ How to Succeed in Graduate School: A Guide for Students and Advisors](http://www.jdl.ac.cn/how_to_research/doc/advicea_1.pdf), by Marie desJardins. (pdf)
@@ -69,7 +72,9 @@ Writing Thesis and Dissertations
 ◇ [NOTES ON PRESENTING THESES](http://www.jdl.ac.cn/how_to_research/doc/theses_NOTES ON PRESENTING THESES.pdf), by Aaron Sloman. (pdf)
 ◇ [How to Write a Thesis - A Personal Experience](http://www.jdl.ac.cn/how_to_research/doc/how_to_write_a_thesis_How to Write a Thesis - A Personal Experience.ppt), by Hugo do Nascimento . (ppt)
 
-**Speaking** [top](#0) 
+---
+
+## **Speaking** [top](#0) 
 ◇ [Giving Presentations](http://www.jdl.ac.cn/zuoyanjiu/doc/presentations_Giving Presentations.ppt) , by Lawrence A. Rowe. (ppt) 
 ◇ [21 Secrets to Becoming A Good Speaker](http://www.jdl.ac.cn/zuoyanjiu/doc/_Harry_21_Secrets_Good_Presentation.ppt), by Kai-Fu Lee.(ppt) 
 ◇ [What is a Thesis Defense](http://www.jdl.ac.cn/how_to_research/doc/What is a thesis defense.doc) , by Chris Reisbeck. (doc)
@@ -83,17 +88,23 @@ Writing Thesis and Dissertations
 ◇ [《你重视自己的presentation能力吗？》](http://www.jdl.ac.cn/how_to_research/doc/%E4%BD%A0%E9%87%8D%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84presentation%E8%83%BD%E5%8A%9B%E5%90%97.doc)，作者：ZT。
 ◇ [How to Get the Most out of Conferences](http://www.uiweb.com/issues/issue24.htm), by Scott Berkun
 
-**Tips for Writing Correct English **[top](#0) 
+---
+
+## **Tips for Writing Correct English **[top](#0) 
 ◇ [Common Errors in English](http://www.wsu.edu:8080/~brians/errors/). 
 ◇ [The Elements of Style](http://www.bartleby.com/141/), by William Strunk, Jr. 
 ◇ [Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors](http://www.jdl.ac.cn/how_to_research/doc/Grammar_Punctuation_Capitalization__A Handbook for Technical Writers and Editors.pdf), by Mary K. McCaskill (pdf)
 
-**How to Review **[top](#0) 
+---
+
+## **How to Review **[top](#0) 
 ◇ [A Guide for New Referees in Theoretical Computer Science, Information and Computation](http://hercule.csci.unt.edu/~ian/guides/referee.html), 112(1):96-116, July 1994.([pdf](http://www.jdl.ac.cn/how_to_research/doc/referee.pdf))
 ◇ [A Guide for New Referees in Theoretical Computer Science](http://www.jdl.ac.cn/how_to_research/doc/manuscript.pdf), by Ian Parberry. (pdf).
 ◇ [The task of the referee](http://www.jdl.ac.cn/how_to_research/doc/The task of the referee.pdf), by Alan Jay Smith. IEEE Computer, April 1990. (pdf)
 
-**Career Advice** [top](#0) 
+---
+
+## **Career Advice** [top](#0) 
 ◇ [Academic Careers for Experimental Computer Scientists and Engineers,](http://www.nap.edu/html/acesc/) published by National Academy Press.
 ◇ [Communications of the ACM SPECIAL ISSUE (September 2003): Why universities require computer science students to take math?](http://portal.acm.org/citation.cfm?id=903893.903916&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659)
 　[Introduction](http://portal.acm.org/citation.cfm?id=903893.903917&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659), by Keith Devlin. [Html](http://portal.acm.org/ft_gateway.cfm?id=903917&type=html&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659)(14 KB), [Pdf](http://portal.acm.org/ft_gateway.cfm?id=903917&type=pdf&dl=GUIDE&dl=ACM&CFID=12476303&CFTOKEN=47175659)(75 KB) 
@@ -108,7 +119,9 @@ Writing Thesis and Dissertations
 ◇ [On Being A Scientist: Responsible Conduct In Research](http://www.nap.edu/readingroom/books/obas/index.html), from the National Academy of Sciences
 ◇ [On Being a Scientist: A Personal View](http://www.nobel.se/chemistry/articles/polanyi/), by John C. Polanyi, 1986 Nobel Laureate in Chemistry.
 
-**Related Papers** [top](#0) 
+---
+
+## **Related Papers** [top](#0) 
 ◇ [《迈向成功之路》](http://www.cs.ccu.edu.tw/~ccc/article/success.htm)作者：张真诚。 
 ◇ [《是什么在造就一个人的成功》](http://www.jdl.ac.cn/how_to_research/doc/%E6%98%AF%E4%BB%80%E4%B9%88%E5%9C%A8%E9%80%A0%E5%B0%B1%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%90%E5%8A%9F__%E6%9C%B1%E6%B8%85%E6%97%B6%E6%A0%A1%E9%95%BF(%E5%AE%8C%E5%85%A8%E7%89%88).doc)，作者：朱清时。 
 ◇ [《爱因斯坦〈自述〉节选》](http://www.jdl.ac.cn/how_to_research/doc/%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E3%80%8A%E8%87%AA%E8%BF%B0%E3%80%8B%E8%8A%82%E9%80%89.txt)，（txt）.
@@ -125,7 +138,9 @@ Writing Thesis and Dissertations
 ◇ [《计算机科学反思录》](http://www.jdl.ac.cn/how_to_research/doc/turn_over_to_computer.doc)，by ZT. 
 ◇ [《学习人生——一个普通IT人的十年回顾》](http://www.jdl.ac.cn/how_to_research/doc/xuexirensheng.txt)，作者：bitfan。
 
-**Related Books** [top](#0) 
+---
+
+## **Related Books** [top](#0) 
 ◇ Zhang Dianzhou, eds. Collected Papers of Yang Zhenning. East-China Normal University Press, 1997. Available in bookstore of Press of University of Science and Technology of China, Haidian Book City. RMB55.00.
 (Dr. Yang, a great master of the 20th century, discussed in the book how to do research, including his views of creativity, inspiration, taste, orientation, etc. I learn a lot from his original thinking procedure and academic developing experience.)
 ◇ Shasha, D. E., et al. Out of their minds: the lives and discoveries of 15 great computer scientists. Springer, 1995.
@@ -138,7 +153,9 @@ Writing Thesis and Dissertations
 ◇ Beveridge, W.I.B. Art of Scientific Investigation. 2nd edition 1953. Translated into Chinese by Chen Jie, Beijing: Science Press, 1979.2.
 (This is a classic book on scientific research methodology, especially suitable for we young and junior researchers. Available in Library of Academy of Sciences. )（书评：《科学研究是一种艺术》，作者：王鸣阳）（[Doc](http://www.jdl.ac.cn/how_to_research/doc/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%98%AF%E4%B8%80%E7%A7%8D%E8%89%BA%E6%9C%AF.doc)）
 
-**Ethics **[top](#0) 
+---
+
+## **Ethics **[top](#0) 
 ◇ [On Being A Scientist: Responsible Conduct in Research](http://www.nap.edu/readingroom/books/obas/) (from National Academy of Sciences). 
 ◇ [Technical writing and research ethics](http://www.justinzobel.com/links.html), by Justin Zobel.
 Pointers to information about research and writing, intended primarily for computer science.
@@ -150,5 +167,3 @@ Pointers to information about research and writing, intended primarily for compu
 ◇ [Plagiarism in Colleges in USA](http://www.rbs2.com/plag.htm), by Ronald B. Standler 
 ◇ [Ethics in the Use of the Internet / World Wide Web](http://www.templetons.com/brad/copymyths.html). By Brad Templeton.
 ◇ [Ethical Guidelines to Publication of Chemical Research](http://pubs.acs.org/instruct/ethic2000.pdf), by the Editors of the Publications Division of the American Chemical Society.
-
-This page is, under the direction of He simin, edited and maintained by Wang Xiaobiao , JDL, CAS. Some papers and books on which are recommended by professor He. Your comments and recommendations are welcome and please send suggestions, additions, or changes to : xbwang@jdl.ac.cn. Nov 4, 2003.
