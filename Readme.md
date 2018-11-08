@@ -2,8 +2,10 @@
 from [为学之道](http://www.jdl.ac.cn/how_to_research/index1_1.htm)
 
 TOC
-[Research Skills](#Research Skills)
-[Writing and Publishing](#Writing and Publishing)
+
+[Research Skills](#research-skills)
+
+[Writing and Publishing](#writing-and-publishing-top)
 
 ---
 
